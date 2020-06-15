@@ -1,0 +1,12 @@
+#coding: utf-8
+from utils_tab import multip_tab
+
+#调用乘法表函数
+multip_tab()
+
+"""
+print **
+add(a,b)
+"""
+
+multip_tab()
